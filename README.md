@@ -15,7 +15,7 @@ I welcome all you **self-driven learners** as we embark on a roller coaster lear
 
 * Please join the course via **[Google Classroom](https://classroom.google.com)**. It's **completely free!**
 * You'll need an invitation from me to join. You can do this as follows : 
-	* Join my slack channel [here](https://bit.ly/2wOTt5w) which is the official communication channel for all learners
+	* Join my slack channel [**here**](https://bit.ly/2wOTt5w) which is the official communication channel for all learners
 	* For further queries, feel free to drop me a mail at : **learn@mentorskool.com**. I'll be more than happy to respond.
 
 
@@ -31,7 +31,7 @@ I welcome all you **self-driven learners** as we embark on a roller coaster lear
 ![step-02](https://github.com/mentorskool/welcome/blob/master/imgs/step-03.png?raw=true)<br><br>
 
 
-### Table of Contents : 
+### Playlist : 
 ---------------------
 
 Sl.No.| Learnbooks                    | Purpose      | Quick View           
