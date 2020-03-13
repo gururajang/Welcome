@@ -1,6 +1,7 @@
-<font size="6" color="#2c5bc7"><b>Welcome to Mentorskool!</font><br>
 
-## What's the repo all about?
+## Welcome to Mentorskool!
+
+### What's the repo all about?
 * This repository contains all help materials to know about Mentorskool
 	* **What** do we do here?
 	* **Why** you should be here?
