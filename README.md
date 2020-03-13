@@ -12,7 +12,6 @@ I welcome all you self-driven learners as we embark on a roller coaster learning
 	* Why **Data Analytics** is an exciting field to be in for the **curious minds!**
 	* Learning paths available at Mentorskool
 
-* Refer **[this]()** link for complete course structure
 * Please join the course via **[Google Classroom](https://classroom.google.com)**. It's **completely free!**
 * Mail me at : **learn@mentorskool.com** to know further details
 
