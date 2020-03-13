@@ -13,13 +13,28 @@ I welcome all you self-driven learners as we embark on a roller coaster learning
 	* Learning paths available at Mentorskool
 
 * Please join the course via **[Google Classroom](https://classroom.google.com)**. It's **completely free!**
-* Mail me at : **learn@mentorskool.com** to know further details
+* You'll need an invitation from me to join. You can do this as follows : 
+	* Join my slack channel [here](https://bit.ly/2wOTt5w) which is the official communication channel for all learners
+	* For further queries, feel free to drop me a mail at : **learn@mentorskool.com**. I'll be more than happy to respond.
 
 
 ### How to navigate?
-* The **[learnbooks](https://github.com/mentorskool/welcome/tree/master/learnbooks)** folder has everything you need to kick-off
-* **01.breaking-the-ice.ipynb :** to start your learning journey
-* **02.learning-paths.ipynb :** coming shortly!
+* We'll mail you the classroom invite. Look for a mail from **learn@mentorskool.com**
+* Click on JOIN to enter the classroom. See the pic here : <br>
+![step-01](https://github.com/mentorskool/welcome/blob/master/imgs/step-01.png)<br>
+* Your Classroom should look like below : <br>
+![step-02](https://github.com/mentorskool/welcome/blob/master/imgs/step-02.png)<br>
+* Click on the classroom title to proceed further<br>
+* Now, Click on Classroom as shown and you should be ready to get started!
+![step-02](https://github.com/mentorskool/welcome/blob/master/imgs/step-03.png)<br>
+
+### Table of Contents : 
+Colons can be used to align columns.
+
+| Notebooks        | Purpose      |           
+| -------------    |:-------------|
+|**01.breaking-the-ice.ipynb**    | This is where you start!
+|**01.learning-paths.ipynb**      | This introduces you to the various learning paths available for you to explore fit to your needs!
 
 
     
