@@ -17,9 +17,9 @@ I welcome all you self-driven learners as we embark on a roller coaster learning
 
 
 ### How to navigate?
-* Go to **[learnbooks](https://github.com/mentorskool/welcome/tree/master/learnbooks)** folder to fetch all the notebooks covered as a part of the classroom alongwith activity supplements
-* Go to **01.breaking-the-ice.ipynb** to start your learning journey
-* Go to **02.learning-paths.ipynb** to get an understanding of various paths you can take to achieve the learning outcome you need 
+* The **[learnbooks](https://github.com/mentorskool/welcome/tree/master/learnbooks)** folder has everything you need to kick-off
+* **01.breaking-the-ice.ipynb** to start your learning journey
+* **02.learning-paths.ipynb** to get an understanding of various paths you can take to achieve the learning outcome you need 
 
 
     
