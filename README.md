@@ -2,7 +2,7 @@
 ## Welcome to Mentorskool!
 
 This is me :
-![Amit Choudhary](https://github.com/mentorskool/welcome/blob/master/imgs/profile.jpg)
+![Amit Choudhary](https://github.com/mentorskool/welcome/blob/master/imgs/profile.png)
 I welcome all you self-driven learners as we embark on a roller coaster learning ride!
 
 ### What's the repo all about?
