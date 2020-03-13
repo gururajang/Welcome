@@ -1,6 +1,8 @@
 
 ## Welcome to Mentorskool!
 
+This is ![Amit Choudhary]() welcoming you on behalf of Mentorskool
+
 ### What's the repo all about?
 * This repository contains all help materials to know about Mentorskool
 	* **What** do we do here?
@@ -10,7 +12,7 @@
 
 * Refer **[this]()** link for complete course structure
 * Please join the course via **[Google Classroom](https://classroom.google.com)**. It's **completely free!**
-* Mail us at : **learn@mentorskool.com** to know further details
+* Mail me at : **learn@mentorskool.com** to know further details
 
 
 ### How to navigate?
