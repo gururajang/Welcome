@@ -1,7 +1,7 @@
 
 ## Welcome to Mentorskool!
 
-This is ![Amit Choudhary]() welcoming you on behalf of Mentorskool
+This is ![Amit Choudhary](https://github.com/mentorskool/welcome/blob/master/imgs/profile.jpg) welcoming you on behalf of Mentorskool
 
 ### What's the repo all about?
 * This repository contains all help materials to know about Mentorskool
