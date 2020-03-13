@@ -24,7 +24,7 @@ Sl.No.| Learnbooks                    | Purpose      | Quick View
 
 ### How can I stay in touch?
 -------------------------------------
-* Quite simple! Just join my slack channel [**here**](https://bit.ly/2wOTt5w) and drop a Hello! All the action happening here. 
+* Quite simple! Just join my slack channel [**here**](https://bit.ly/2wOTt5w) and drop a Hello.Here's where all the action happening! 
 * For anything else, I am available here : **learn@mentorskool.com**.
 
 
