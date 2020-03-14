@@ -21,8 +21,8 @@ Sl.No.| Learnbooks                    | Purpose      | Quick View
 1.|**breaking-the-ice**  | This is where you start! | [**here**](https://colab.research.google.com/github/mentorskool/welcome/blob/master/learnbooks/breaking-the-ice.ipynb)
 2.|**learning-paths**    | This introduces you to the various learning paths available for you to explore fit to your needs! | [**coming soon...**]()
 
-<a href="#" style="background-color: #f1f1f1;color: black;">&laquo; Previous</a>
-<a href="#" style="background-color: #4CAF50;color: white;">Next &raquo;</a>
+<a href="#" >&laquo; Previous</a>
+<a href="#" >Next &raquo;</a>
 
 
 ### How can I stay in touch?
