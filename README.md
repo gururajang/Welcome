@@ -26,6 +26,11 @@ Sl.No.| Learnbooks                    | Purpose
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JWGT-rcuGyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
+### Let's try again: 
+<br>
+<iframe width="560" height="315" src="https://colab.research.google.com/github/mentorskool/welcome/blob/master/learnbooks/breaking-the-ice.ipynb" frameborder="0"></iframe>
+<br>
+
 <a href="#" style="float:right;" >Next &raquo;</a>
 
 <br>
