@@ -21,15 +21,15 @@ Sl.No.| Learnbooks                    | Purpose
 1.|[**breaking-the-ice**](https://colab.research.google.com/github/mentorskool/welcome/blob/master/learnbooks/breaking-the-ice.ipynb)  | This is where you start!
 2.|[**learning-paths**]()    | This introduces you to the various learning paths available for you to explore fit to your needs!
 
-### Let's try : 
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JWGT-rcuGyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-
-### Let's try again: 
-<br>
-<iframe width="560" height="315" src="https://colab.research.google.com/github/mentorskool/welcome/blob/master/learnbooks/breaking-the-ice.ipynb" frameborder="0"></iframe>
-<br>
+### Let's try?
+-------------------------------------
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQicoSq0ahKmXBepvJlJ98UA15iB7HsL8yb-SGRy-DkcGeDVcNmVlQZNV3uHVUznrlxcNu3_cLlhmdC/embed?start=false&loop=false&delayms=3000" 
+frameborder="0" 
+width="800" 
+height="500" 
+allowfullscreen="true" 
+mozallowfullscreen="true" 
+webkitallowfullscreen="true"></iframe>
 
 <a href="#" style="float:right;" >Next &raquo;</a>
 
