@@ -19,7 +19,7 @@ I welcome all you **self-driven learners** as we embark on a roller coaster lear
 Sl.No.| Learnbooks                    | Purpose             
 ------|:------------------------------|:-------------
 1.|<a href="https://colab.research.google.com/github/mentorskool/welcome/blob/master/learnbooks/breaking-the-ice.ipynb" target="_blank">Breaking the Ice</a> | This is where you start!
-2.|<a href="https://colab.research.google.com/github/mentorskool/welcome/blob/master/learnbooks/breaking-the-ice.ipynb" target="_blank">Breaking the Ice</a> |This introduces you to the various learning paths available for you to explore fit to your needs!
+2.|<a href="https://colab.research.google.com/github/mentorskool/welcome/blob/master/learnbooks/breaking-the-ice.ipynb" target="_blank">Learning Paths</a> |This introduces you to the various learning paths available for you to explore fit to your needs!
 
 <br>
 
