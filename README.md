@@ -1,9 +1,9 @@
 
 ## Welcome to Mentorskool!
 
-This is me : <br>
+This is **me** : <br>
 ![Amit Choudhary](https://github.com/mentorskool/welcome/blob/master/imgs/profile.png?raw=true) <br><br>
-I welcome all you **self-driven learners** as we embark on a roller coaster learning ride!
+I welcome all you **self-driven learners** to my open learning initiative as we embark on a roller coaster ride towards upskilling ourselves
 
 ### What's the repo all about?
 -------------------------------
@@ -19,7 +19,7 @@ I welcome all you **self-driven learners** as we embark on a roller coaster lear
 Sl.No.| Learnbooks                    | Purpose             
 ------|:------------------------------|:-------------
 1.|<a href="https://colab.research.google.com/github/mentorskool/welcome/blob/master/learnbooks/breaking-the-ice.ipynb" target="_blank">Breaking the Ice</a> | This is where you start!
-2.|<a href="https://colab.research.google.com/github/mentorskool/welcome/blob/master/learnbooks/breaking-the-ice.ipynb" target="_blank">Learning Paths</a> |This introduces you to the various learning paths available for you to explore fit to your needs!
+2.|<a href="https://mentorskool.github.io/Welcome/">Learning Paths</a> |This introduces you to the various learning paths available for you to explore fit to your needs!
 
 <br>
 
